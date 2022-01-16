@@ -1,2 +1,2 @@
 # PerryYuv.github.io
-sample space and probabilities
+# sample space and probabilities
